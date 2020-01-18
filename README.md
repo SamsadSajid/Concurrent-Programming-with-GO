@@ -25,4 +25,4 @@ Look the codes in `async_service_call_v3.go`
 |4|2 Network call|1.135379339|
 
 My device run with 4 core.
-For 4 core, the time taken 1.135379339 which is 1.38% faster than v2
+For 4 core, the time taken 1.135379339 which is 82.11% faster than v2
